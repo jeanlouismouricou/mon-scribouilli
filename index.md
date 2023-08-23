@@ -10,4 +10,4 @@ Ce site est **exclusivement** créer à l'attention de mes petits enfants!.
    <center>_(c'est bien parce que c'est toi, Clémentine)_</center> 
 
   L'image de la semaine, avec l'autorisation de l'interréssée:
-  ![Clémentine](/images/clem-.jpg) 
+![Texte décrivant l'image](/images/clem-.jpg) 
