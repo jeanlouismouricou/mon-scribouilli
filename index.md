@@ -7,4 +7,7 @@ order: 0
 Ce site est **exclusivement** créer à l'attention de mes petits enfants!.
 (en attendant qu'ils soient autonomes les parents peuvent les aider pour y accéder, mais c'est tout!) 
 
-_Bon, d'accord, a titre provisoire, j'autorise mes nièces et neveux d'y accéder...(c'est bien parce que c'est toi, Clémentine)_ 
+_Bon, d'accord, à titre provisoire, j'autorise mes nièces et neveux à y accéder...(c'est bien parce que c'est toi, Clémentine)_ 
+
+:L'image du jour, avec l'autorisation de l'interréssée:
+![Clémentine](/images/clem-.jpg) 
