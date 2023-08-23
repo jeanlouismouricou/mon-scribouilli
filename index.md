@@ -6,8 +6,8 @@ order: 0
 
 Ce site est **exclusivement** créer à l'attention de mes petits enfants!.
 (en attendant qu'ils soient autonomes les parents peuvent les aider pour y accéder, mais c'est tout!) 
-   <center>_Bon, d'accord, à titre provisoire, j'autorise mes nièces et neveux à y accéder... _</center>    
-   <center>_(c'est bien parce que c'est toi, Clémentine)_</center> 
+   <center>_Bon, d'accord, à titre provisoire, j'autorise mes nièces et neveux à y accéder..._ </center>   
+   <center>_(c'est bien parce que c'est toi, Clémentine)</center>_
 
-  L'image de la semaine, avec l'autorisation de l'interréssée:
-![Texte décrivant l'image](/images/clem-.jpg) 
+  <center>L'image de la semaine, avec l'autorisation de l'interréssée:</center>
+<center>![Clémentine](/images/clem-.jpg) </center> 
