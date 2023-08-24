@@ -9,5 +9,5 @@ Ce site est **exclusivement** créer à l'attention de mes petits enfants!.
    _<center>Bon, d'accord, à titre provisoire, j'autorise mes nièces et neveux à y accéder...   
 (c'est bien parce que c'est toi, Clémentine)</center>_
 
-L'image de la semaine, avec l'autorisation de l'interréssée:</center>   
+ _<center>L'image de la semaine, avec l'autorisation de l'interréssée:</center>   
    ![clémentine](/images/clempetit.jpg) 
