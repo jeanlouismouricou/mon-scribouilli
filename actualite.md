@@ -6,6 +6,4 @@ order: 1
   ![cuisine avec Clem](/images/20230824_1.jpg) 
 **Jeudi 24 août :** Chantier aménagement de classe pour Cécile.
 Gros orage ! Martin et Anaé passent leurs premières journées au centre de loisir et à la crèche... C'est un peu la rentrée ! Cécile   
-  ![la classe](/images/20230824_2.jpg)  
-mais aussi
-  ![l'orage](/images/20230824_3.jpg) 
+  ![la classe](/images/20230824_2.jpg)      ![l'orage](/images/20230824_3.jpg) 
